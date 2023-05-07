@@ -5,6 +5,8 @@ For a video process refer to this video:
 
 Download files here: https://1drv.ms/u/s!AvzEsnT6yIJovCCK1rqAXiIG4meB?e=bmydUt
 
+once the file is downloaded unzip it and go thorugh the java installer.
+
 After, click on "run server sync.bat" so it is highlighted and then right click it. A dialogue box will appear and you need to click edit.
 
 You will see "C:\Program Files\Java\jdk1.8.0_202\bin\java.exe" -jar serversync-4.1.0.jar.
