@@ -1,11 +1,11 @@
 # magma-forge-client-setup
-Incase you would like to read the source insturctions, read here: https://github.com/superzanti/ServerSync/wiki/Quick-start
+Incase you would like to read the source instructions, read here: https://github.com/superzanti/ServerSync/wiki/Quick-start
 
 For a video process refer to this video: 
 
 Download files here: https://1drv.ms/u/s!AvzEsnT6yIJovCCK1rqAXiIG4meB?e=bmydUt
 
-After, clcik on "run server sync.bat" so it is highlighted and then right click it. A dialogue box will appear and you need to click edit.
+After, click on "run server sync.bat" so it is highlighted and then right click it. A dialogue box will appear and you need to click edit.
 
 You will see "C:\Program Files\Java\jdk1.8.0_202\bin\java.exe" -jar serversync-4.1.0.jar.
 
