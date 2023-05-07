@@ -3,9 +3,7 @@ Incase you would like to read the source insturctions, read here: https://github
 
 For a video process refer to this video: 
 
-Click on Code (greenbox) and select download zip.
-
-Once downloaded, unzip the file and then unzip the packeges folder. After click on the java installer first. Go through the install process.
+Download files here: https://1drv.ms/u/s!AvzEsnT6yIJovCCK1rqAXiIG4meB?e=bmydUt
 
 After, clcik on "run server sync.bat" so it is highlighted and then right click it. A dialogue box will appear and you need to click edit.
 
