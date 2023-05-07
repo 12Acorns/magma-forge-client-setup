@@ -1,3 +1,3 @@
 # magma-forge-client-setup
 
-Click on code 
+Click on Code (greenbox) and select download zip 
