@@ -1,6 +1,7 @@
 # magma-forge-client-setup
 
-GPT-instructions
+**GPT-instructions**
+
 First, you need to download some files from a website. You can find the link to the files here: https://1drv.ms/u/s!AvzEsnT6yIJovCCK1rqAXiIG4meB?e=bmydUt
 
 After you download the files, you need to "unzip" them. This just means you need to open up the files so you can use them.
@@ -27,6 +28,8 @@ Finally, click on the "run server sync.bat" file and enter the server IP address
 
 That's it! Whenever you want to play on the server, just click on the "run server sync.bat" file, press "sync," and then launch Minecraft and connect to the server.
 
+**My instructions**
+
 Incase you would like to read the source instructions, read here: https://github.com/superzanti/ServerSync/wiki/Quick-start
 
 For a video process refer to this video: 
@@ -47,7 +50,7 @@ If the path is invalid then you will need to check for where the install path is
 
 Once you find that folder click on it and then look for the java version 202, after click on the bin and then copy the path.
 
-GO onto the bat file from ealier and replace C:\Program Files\Java\jdk1.8.0_202\bin\ with the path you have. MAKE SURE TO PUT java.exe after bin\
+Go onto the bat file from ealier and replace C:\Program Files\Java\jdk1.8.0_202\bin\ with the path you have. MAKE SURE TO PUT java.exe after bin\
 
 Then go to your minecraft directory, search %appdata% in your file explorer and look for .minecraft.
 
