@@ -8,7 +8,7 @@ After you download the files, you need to "unzip" them. This just means you need
 
 Next, you need to click on a file called "run server sync.bat" and then right-click on it. A menu will pop up and you should click "edit."
 
-A window will pop up with some words in it. You need to copy a line of text that looks like this: "C:\Program Files\Java\jdk1.8.0_202\bin\java.exe" -jar serversync-4.1.0.jar.
+A window will pop up with some words in it. You need to copy a line of text that looks like this: C:\Program Files\Java\jdk1.8.0_202\bin\java.exe
 
 Then, you need to paste that line of text into your file explorer window. This will take you to a special folder on your computer.
 
@@ -22,7 +22,7 @@ Go back to the "run server sync.bat" file and replace the old text with the new 
 
 Next, you need to go to your Minecraft folder. You can find it by searching for "%appdata%" in your file explorer. Look for a folder called ".minecraft" and open it up.
 
-Drag the "server sync" file and the "run server sync.bat" file into the ".minecraft" folder.
+Drag the "server sync" file and the "run server sync.bat" file into a blank forge folder running 1.12.2.
 
 Finally, click on the "run server sync.bat" file and enter the server IP address (it should be a number, like 123.45.67.89) and the port number it should 38067.
 
@@ -54,7 +54,7 @@ Go onto the bat file from ealier and replace C:\Program Files\Java\jdk1.8.0_202\
 
 Then go to your minecraft directory, search %appdata% in your file explorer and look for .minecraft.
 
-Drag the server sync file and run server sync file in the .minecraft folder.
+Drag the server sync file and run server sync file in a new forge folder running minecraft 1.12.2.
 
 Once done, click on the "Run Server Sync.bat" and enter the server ip and port 38067 in their respective areas.
 
