@@ -25,6 +25,6 @@ Then go to your minecraft directory, search %appdata% in your file explorer and 
 
 Drag the server sync file and run server sync file in the .minecraft folder.
 
-Once done, click on the "Run Server Sync.bat" and enter the server ip and port 25565 in their respective areas.
+Once done, click on the "Run Server Sync.bat" and enter the server ip and port 38057 in their respective areas.
 
 Thats it, whenever you want to play the server run the bat file and press sync and then launch minecraft and connect to the server.
