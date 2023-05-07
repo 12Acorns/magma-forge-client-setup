@@ -2,25 +2,33 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">All</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>b3a306a9-162e-46f7-9681-d9f92b2a8e8e</ProjectGuid>
+    <ProjectGuid>438a11bd-d450-44f6-9ada-e4d43348d022</ProjectGuid>
     <OutputType>msi</OutputType>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Setup Installer.aip</StartupFile>
+    <StartupFile>Installer Helper.aip</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <IsWindowsApplication>True</IsWindowsApplication>
-    <AssemblyName>Setup Installer</AssemblyName>
-    <Name>Setup Installer</Name>
-    <RootNamespace>Setup Installer</RootNamespace>
+    <AssemblyName>Installer Helper</AssemblyName>
+    <Name>Installer Helper</Name>
+    <RootNamespace>Installer Helper</RootNamespace>
     <LoadFromTemplate>
     </LoadFromTemplate>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'DefaultBuild' " />
   <ItemGroup>
-    <Compile Include="Setup Installer.aip">
+    <Compile Include="Installer Helper.aip">
       <SubType>Code</SubType>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Magma server Installer\Magma server Installer.csproj">
+      <Name>Magma server Installer</Name>
+      <Project>{f20b79ff-fcf3-4f5b-ae2d-b50dd7639f5f}</Project>
+      <Private>True</Private>
+      <OutputsToImport>PrimaryOutput;References</OutputsToImport>
+    </ProjectReference>
   </ItemGroup>
   <Target Name="Build">
     <Error Text="This project requires Advanced Installer tool. Please download it from https://www.advancedinstaller.com/download.html" />

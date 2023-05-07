@@ -1,0 +1,21 @@
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\bin\Debug\net6.0-windows\User Interface.exe
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\bin\Debug\net6.0-windows\User Interface.deps.json
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\bin\Debug\net6.0-windows\User Interface.runtimeconfig.json
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\bin\Debug\net6.0-windows\User Interface.dll
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\bin\Debug\net6.0-windows\User Interface.pdb
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\obj\Debug\net6.0-windows\User Interface.csproj.AssemblyReference.cache
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\obj\Debug\net6.0-windows\App.g.cs
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\obj\Debug\net6.0-windows\User Interface_MarkupCompile.cache
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\obj\Debug\net6.0-windows\User Interface_MarkupCompile.lref
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\obj\Debug\net6.0-windows\MainWindow.baml
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\obj\Debug\net6.0-windows\User Interface.g.resources
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\obj\Debug\net6.0-windows\User Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\obj\Debug\net6.0-windows\User Interface.AssemblyInfoInputs.cache
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\obj\Debug\net6.0-windows\User Interface.AssemblyInfo.cs
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\obj\Debug\net6.0-windows\User Interface.csproj.CoreCompileInputs.cache
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\obj\Debug\net6.0-windows\User Interface.dll
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\obj\Debug\net6.0-windows\refint\User Interface.dll
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\obj\Debug\net6.0-windows\User Interface.pdb
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\obj\Debug\net6.0-windows\User Interface.genruntimeconfig.cache
+D:\GitHub\magma-forge-client-setup\Magma server Installer\User Interface\obj\Debug\net6.0-windows\ref\User Interface.dll

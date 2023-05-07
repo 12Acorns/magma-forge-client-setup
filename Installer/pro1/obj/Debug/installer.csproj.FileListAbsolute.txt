@@ -1,8 +1,0 @@
-D:\GitHub\magma-forge-client-setup\Installer\pro1\obj\Debug\installer.csproj.AssemblyReference.cache
-D:\GitHub\magma-forge-client-setup\Installer\pro1\obj\Debug\installer.csproj.SuggestedBindingRedirects.cache
-D:\GitHub\magma-forge-client-setup\Installer\pro1\obj\Debug\installer.csproj.CoreCompileInputs.cache
-D:\GitHub\magma-forge-client-setup\Installer\pro1\bin\Debug\installer_Main.exe.config
-D:\GitHub\magma-forge-client-setup\Installer\pro1\bin\Debug\installer_Main.exe
-D:\GitHub\magma-forge-client-setup\Installer\pro1\bin\Debug\installer_Main.pdb
-D:\GitHub\magma-forge-client-setup\Installer\pro1\obj\Debug\installer_Main.exe
-D:\GitHub\magma-forge-client-setup\Installer\pro1\obj\Debug\installer_Main.pdb
