@@ -18,7 +18,7 @@ If you don't see any files in that folder, then you need to look for another fol
 
 Once you find the "Java" folder, look for a folder called "jdk1.8.0_202" and then look for a folder called "bin." Copy the path to that folder.
 
-Go back to the "run server sync.bat" file and replace the old text with the new text you just copied. Make sure to add "java.exe" after "bin".
+Go back to the "run server sync.bat" file and replace the old text with the new text you just copied. Make sure to add "/java.exe" after "bin".
 
 Next, you need to go to your Minecraft folder. You can find it by searching for "%appdata%" in your file explorer. Look for a folder called ".minecraft" and open it up.
 
